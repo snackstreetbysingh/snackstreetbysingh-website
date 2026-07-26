@@ -178,3 +178,25 @@ border-radius:12px;
 font-weight:bold;
 border:2px dashed #ff9800;
 }
+.best-price-banner{
+background:#fff8e1;
+border:3px solid #ff9800;
+padding:20px;
+border-radius:15px;
+margin:20px 0;
+text-align:center;
+}
+
+.best-price-banner h2{
+color:#e65100;
+}
+
+.best-price-banner ul{
+list-style:none;
+padding:0;
+}
+
+.best-price-banner li{
+padding:6px;
+font-weight:bold;
+}
