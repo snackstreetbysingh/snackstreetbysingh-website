@@ -200,3 +200,34 @@ padding:0;
 padding:6px;
 font-weight:bold;
 }
+.quick-actions{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:12px;
+margin:25px 0;
+}
+
+.quick-actions a{
+padding:12px 20px;
+border-radius:30px;
+text-decoration:none;
+font-weight:bold;
+color:#fff;
+}
+
+.call-btn{
+background:#ff9800;
+}
+
+.wa-btn{
+background:#25D366;
+}
+
+.zomato-btn{
+background:#E23744;
+}
+
+.review-btn{
+background:#4285F4;
+}
