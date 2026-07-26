@@ -137,3 +137,25 @@ background:#25D366;
 .menu-card h3{
     margin:0 0 8px;
 }
+.best-price{
+background:#ffffff;
+margin:20px;
+padding:25px;
+border-radius:15px;
+text-align:center;
+box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+.best-price h2{
+color:#2e7d32;
+margin-bottom:15px;
+}
+
+.delivery-box{
+margin-top:20px;
+background:#fff3cd;
+padding:18px;
+border-radius:12px;
+font-weight:bold;
+border:2px dashed #ff9800;
+}
