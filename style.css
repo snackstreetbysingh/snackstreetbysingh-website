@@ -73,3 +73,50 @@ nav a{
 .order-btn:hover{
     background:#128C7E;
 }
+.hero{
+background:linear-gradient(135deg,#ff9800,#ff5722);
+color:white;
+padding:60px 20px;
+text-align:center;
+border-radius:15px;
+margin:20px;
+}
+
+.hero h2{
+font-size:42px;
+margin-bottom:15px;
+}
+
+.hero p{
+font-size:20px;
+margin:12px 0;
+}
+
+.offline{
+background:#fff;
+color:#d32f2f;
+display:inline-block;
+padding:12px 20px;
+border-radius:8px;
+font-weight:bold;
+margin-top:20px;
+}
+
+.visit-btn,
+.whatsapp-btn{
+display:inline-block;
+margin:15px 8px;
+padding:14px 28px;
+border-radius:30px;
+text-decoration:none;
+font-weight:bold;
+color:white;
+}
+
+.visit-btn{
+background:#000;
+}
+
+.whatsapp-btn{
+background:#25D366;
+}
